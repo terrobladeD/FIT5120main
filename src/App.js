@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home.js';
 import JobCheck from './pages/JobCheck.js';
 import IndustryAnalysis from './pages/IndustryAnalysis.js';
